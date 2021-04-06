@@ -3,9 +3,6 @@
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -37,7 +34,7 @@
     "uuid": "d90e1fb6-befa-44f3-b46f-7524a307b5ac"
   },
   "engines": {
-    "node": ">=10.16.0 <=14.x.x",
+    "node": "12.18.3",
     "npm": "^6.0.0"
   },
   "license": "MIT"
